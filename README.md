@@ -2,7 +2,7 @@
 
 ## ![Alt Poker in C](sample.png?raw=true "Poker in C")
 
-It was the final project for my C Language in College (late 2010).
+It was the final project for my C Language course in College (late 2010).
 
 Many nights without sleep trying to understand how pointers and matrixes work. It was fun I learned A LOT and it was a great experience. There are probably many bugs, but I will try to write the general idea from what I remember.
 
