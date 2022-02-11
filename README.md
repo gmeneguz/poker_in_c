@@ -57,7 +57,7 @@ Example:
 
 3050 - Two pairs (I dont remember the logic to sum the pairs but the higher has more weight certainly)
 
-4007 - Three of a kind (two fives in hand)
+4007 - Three of a kind (three sevens in hand)
 
 5010 - Sequence, as ten higher
 
