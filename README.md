@@ -4,7 +4,7 @@
 
 It was the final project for my C Language course in College (late 2010).
 
-Many nights without sleep trying to understand how pointers and matrixes work. It was fun I learned A LOT and it was a great experience. There are probably many bugs, but I will try to write the general idea from what I remember.
+Many nights without sleep trying to understand how pointers and matrixes work. It was fun, I learned A LOT and it was a great experience. There are probably many bugs, but I will try to write the general idea from what I remember.
 
 It was all writen and documented in Portuguese, since that time all my effort was about learning to program.
 
