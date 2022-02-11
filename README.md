@@ -40,7 +40,7 @@ Game runs directly on Prompt / Terminal interface printing and repainting the sc
 - The first number (get value from / 100) is related to **suit**
 - The last two numbers (get value from % 100) are related to **card value**
 
-For instance, 405 means 5 of Spades for instance. Card value of 14 means Ace.
+For instance, 405 means 5 of Spades. Card value of 14 means Ace, so 414 means Ace of Spades.
 
 ```c
 temp_naipex = cartas_t[cont_exib] / 100;
